@@ -1,0 +1,16 @@
+# Node dependencies & build
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Python venv & bytecode
+backend/venv/
+backend/__pycache__/
+backend/*/__pycache__/
+*.py[cod]
+.env
+database/ecommerce_dump.sql
+
+# OS Files
+.DS_Store
+Thumbs.db
